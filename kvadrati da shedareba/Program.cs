@@ -1,8 +1,4 @@
-﻿
-
-
-
-Console.Write("sheiyvane ra ginda avides kvadratshi: ");
+﻿Console.Write("sheiyvane ra ginda avides kvadratshi: ");
 
 
 Console.WriteLine(kvadrati(Convert.ToInt32(Console.ReadLine())));
