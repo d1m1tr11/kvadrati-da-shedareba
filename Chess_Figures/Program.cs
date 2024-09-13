@@ -2,7 +2,7 @@
 
 
 
-Console.WriteLine("sheiyvane ra ginda ro gaormagdes");
+Console.Write("sheiyvane ra ginda ro gaormagdes: ");
 
 
 Console.WriteLine(kvadrati(Convert.ToInt32(Console.ReadLine())));
